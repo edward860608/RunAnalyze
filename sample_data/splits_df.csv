@@ -1,0 +1,11 @@
+run_id,name,type,sport_type,start_datetime_local,end_datetime_local,moving_time_min_str,distance_km,distance,km,pace_str,avg_heart_rate_bpm,avg_cadence_spm,shoes
+1007,5K Time Trial,Run,Run,2026-05-21 18:20:00,2026-05-21 18:48:42,00:28:42,5.10,1.0,1,05:48,166,178,Race Shoe
+1007,5K Time Trial,Run,Run,2026-05-21 18:20:00,2026-05-21 18:48:42,00:28:42,5.10,1.0,2,05:42,171,180,Race Shoe
+1007,5K Time Trial,Run,Run,2026-05-21 18:20:00,2026-05-21 18:48:42,00:28:42,5.10,1.0,3,05:37,176,183,Race Shoe
+1007,5K Time Trial,Run,Run,2026-05-21 18:20:00,2026-05-21 18:48:42,00:28:42,5.10,1.0,4,05:32,180,185,Race Shoe
+1007,5K Time Trial,Run,Run,2026-05-21 18:20:00,2026-05-21 18:48:42,00:28:42,5.10,1.0,5,05:26,184,188,Race Shoe
+1010,Hill Repeats,Run,Run,2026-06-04 19:00:00,2026-06-04 19:49:12,00:49:12,7.50,1.0,1,06:12,151,169,Trail Trainer
+1010,Hill Repeats,Run,Run,2026-06-04 19:00:00,2026-06-04 19:49:12,00:49:12,7.50,1.0,2,06:44,166,171,Trail Trainer
+1010,Hill Repeats,Run,Run,2026-06-04 19:00:00,2026-06-04 19:49:12,00:49:12,7.50,1.0,3,06:51,172,172,Trail Trainer
+1010,Hill Repeats,Run,Run,2026-06-04 19:00:00,2026-06-04 19:49:12,00:49:12,7.50,1.0,4,06:18,164,173,Trail Trainer
+1010,Hill Repeats,Run,Run,2026-06-04 19:00:00,2026-06-04 19:49:12,00:49:12,7.50,1.0,5,06:58,176,171,Trail Trainer

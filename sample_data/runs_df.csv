@@ -1,0 +1,11 @@
+run_id,name,type,sport_type,start_datetime_local,end_datetime_local,distance_km,moving_time_min_str,avg_pace_str,avg_heart_rate_bpm,max_heart_rate_bpm,avg_cadence_spm,shoes
+1001,Easy Morning Run,Run,Run,2026-05-01 06:42:00,2026-05-01 07:15:20,5.60,00:33:20,05:57,148,165,170,Daily Trainer
+1002,Tempo Intervals,Run,Run,2026-05-04 19:12:00,2026-05-04 19:58:30,8.20,00:46:30,05:40,162,181,176,Speed Shoe
+1003,Riverside Recovery,Run,Run,2026-05-06 07:05:00,2026-05-06 07:35:10,4.80,00:30:10,06:17,139,154,166,Daily Trainer
+1004,Weekend Long Run,Run,Run,2026-05-10 06:30:00,2026-05-10 07:47:30,12.70,01:17:30,06:06,153,172,168,Max Cushion
+1005,Progression Run,Run,Run,2026-05-14 18:40:00,2026-05-14 19:28:45,8.90,00:48:45,05:29,166,184,178,Speed Shoe
+1006,Easy Aerobic Run,Run,Run,2026-05-17 07:10:00,2026-05-17 07:49:00,6.40,00:39:00,06:06,145,160,169,Daily Trainer
+1007,5K Time Trial,Run,Run,2026-05-21 18:20:00,2026-05-21 18:48:42,5.10,00:28:42,05:38,174,190,182,Race Shoe
+1008,Sunday Long Run,Run,Run,2026-05-24 06:15:00,2026-05-24 07:38:20,13.80,01:23:20,06:02,155,176,170,Max Cushion
+1009,June Easy Run,Run,Run,2026-06-02 06:55:00,2026-06-02 07:31:24,6.00,00:36:24,06:04,144,158,168,Daily Trainer
+1010,Hill Repeats,Run,Run,2026-06-04 19:00:00,2026-06-04 19:49:12,7.50,00:49:12,06:34,168,186,172,Trail Trainer
